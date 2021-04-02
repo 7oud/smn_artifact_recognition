@@ -1,0 +1,1 @@
+# smn_artifact_recognition
